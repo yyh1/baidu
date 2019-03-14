@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4746" started-at="2019-03-14T01:42:01Z" finished-at="2019-03-14T01:42:05Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4746" started-at="2019-03-14T01:42:01Z" finished-at="2019-03-14T01:42:05Z">
+      <class name="testbaidu.Tbaidu">
+        <test-method status="PASS" signature="openchrome()[pri:0, instance:testbaidu.Tbaidu@25618e91]" name="openchrome" duration-ms="4727" started-at="2019-03-14T09:42:01Z" finished-at="2019-03-14T09:42:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openchrome -->
+      </class> <!-- testbaidu.Tbaidu -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
